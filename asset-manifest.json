@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shoe-Mart/static/css/main.9e3f3e0d.css",
+    "main.js": "/Shoe-Mart/static/js/main.8d818cd8.js",
+    "static/js/787.c794b4f6.chunk.js": "/Shoe-Mart/static/js/787.c794b4f6.chunk.js",
+    "index.html": "/Shoe-Mart/index.html",
+    "main.9e3f3e0d.css.map": "/Shoe-Mart/static/css/main.9e3f3e0d.css.map",
+    "main.8d818cd8.js.map": "/Shoe-Mart/static/js/main.8d818cd8.js.map",
+    "787.c794b4f6.chunk.js.map": "/Shoe-Mart/static/js/787.c794b4f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e3f3e0d.css",
+    "static/js/main.8d818cd8.js"
+  ]
+}
