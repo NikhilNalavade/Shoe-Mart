@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.a{
+    padding: 10px 20px;
+    width: 100%;
+    background: #010f1c;
+    display: flex;
+
+}
+.a .icon{
+    color: #f3b123;
+    font-size: 32px;
+}
+
+.a p{
+    margin-left: 15px;
+    color: azure;
+    margin-top: 7px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.header{
+    padding: 10px 40px;
+    width: 100%;
+    border-bottom: 1px solid #010f1c;
+}
+
+.header .catainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header .catainer .search_box{
+    margin-right: 40px;
+    margin-top: 18px;
+}
+
+.header .catainer .search_box input{
+    outline: none;
+    padding: 10px 30px;
+    border: 3px solid #0989ff;
+    width: 300px;
+    color: #010f1c;
+}
+
+.header .catainer .search_box button{
+    border: 3px solid #0989ff;
+    outline: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    background: #0989ff;
+    color: #ecf2f7;
+}
+
+.header .catainer .icon{
+    display: flex;
+    margin-right: 0px;
+    margin-top: 20px;
+}
+
+.header .catainer .icon .account{
+    display: flex;
+    margin-right: 30px;
+}
+
+.header .catainer .icon .account .user{
+    margin-right: 10px;
+    font-size: 22px;
+    color: #010f1c;
+    cursor: pointer;
+}
+
+.header .catainer .icon .account p{
+    margin-right: 5px;
+    margin-top: 2px;
+}
+
+.header .catainer .icon .s_icon{
+    display: flex;
+}
+
+.header .catainer .icon .s_icon .link{
+    margin-right: 5px;
+    font-size: 22px;
+    cursor: pointer;
+    color: #0989ff;
+}
+
+.header2{
+    width: 100%;
+    padding: 20px 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.header2 .con{
+    display: flex;
+    max-width: 100%;
+    justify-content: space-between;
+}
+
+.header2 .con .mav ul{
+    display: flex;
+}
+
+.header2 .con .mav ul li{
+    margin-left: 20px;
+    list-style: none;
+}
+
+.header2 .con .mav ul li .link{
+    text-decoration: none;
+    color: #010f1c;
+    transition: 0.5s;
+}
+
+.header2 .con .mav ul li .link:hover{
+    color: #0989ff;
+}
+
+.header2 .con .auth{
+    margin-right: 20px;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.header2 .con .auth button{
+    margin-right: 20px;
+    font-size: 22px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background: none;
+}
