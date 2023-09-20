@@ -50,7 +50,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
                     <Link to='/Product' className='link'>Shop Now <BsArrowRight /></Link>
                 </div>
                 <div className='img_box'>
-                    <img src={rename}alt='Best Shoes'height={500} width={500}></img>
+                    <img src={rename} alt='Best Shoes'height={500} width={500}></img>
                 </div>
             </div>
         </div>
