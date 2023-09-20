@@ -5,7 +5,7 @@ const Homeproduct =
         Title:"Nike Air Max 2017",
         Cat:'Sports Shoes',
         Price:'233',
-        Img:'/Img/p1.jpg',
+        Img:'../Img/p1.jpg',
     },
 
     {
