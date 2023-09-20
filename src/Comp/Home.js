@@ -89,7 +89,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
 
                 <div className='box'>
                     <div className='img_box'>
-                        <img src='../Img/106832392-1611931738880-CW5883-100_237589929_D_R_1X1_original.png' alt='Slip On' height={100} width={150}></img>
+                        <img src='/Img/106832392-1611931738880-CW5883-100_237589929_D_R_1X1_original.png' alt='Slip On' height={100} width={150}></img>
                     </div>
                     <div className='detail'>
                         <p>Slip On</p>
