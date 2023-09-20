@@ -13,7 +13,7 @@ const Homeproduct =
         Title:"Puma NEliminate Pro II",
         Cat:'Sports Shoes',
         Price:'180',
-        Img:'./Img/p2.jpg',
+        Img:'../Img/p2.jpg',
     },
 
     {
