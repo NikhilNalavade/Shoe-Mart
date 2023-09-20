@@ -5,7 +5,7 @@ const Homeproduct =
         Title:"Nike Air Max 2017",
         Cat:'Sports Shoes',
         Price:'233',
-        Img:'../Img/p1.jpg',
+        Img:'./Img/p1.jpg',
     },
 
     {
@@ -13,7 +13,7 @@ const Homeproduct =
         Title:"Puma NEliminate Pro II",
         Cat:'Sports Shoes',
         Price:'180',
-        Img:'../Img/p2.jpg',
+        Img:'./Img/p2.jpg',
     },
 
     {
