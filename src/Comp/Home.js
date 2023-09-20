@@ -9,6 +9,7 @@ import { AiOutlineShoppingCart, AiOutlineClose } from 'react-icons/ai';
 import { BsEye } from 'react-icons/bs';
 import { AiOutlineHeart } from 'react-icons/ai';
 import Homeproduct from './homeproduct';
+import rename from '../../public/Img/rename.png'
 import '../home.css'
 
 const Home = ({detail, view, close, setClose, addtocart}) => {
@@ -49,7 +50,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
                     <Link to='/Product' className='link'>Shop Now <BsArrowRight /></Link>
                 </div>
                 <div className='img_box'>
-                    <img src='./Img/pngimg.com - running_shoes_PNG5816.png'alt='Best Shoes'height={500} width={500}></img>
+                    <img src={rename}alt='Best Shoes'height={500} width={500}></img>
                 </div>
             </div>
         </div>
