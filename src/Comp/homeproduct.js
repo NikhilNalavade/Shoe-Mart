@@ -13,7 +13,7 @@ const Homeproduct =
         Title:"Puma NEliminate Pro II",
         Cat:'Sports Shoes',
         Price:'180',
-        Img:'./Img/p2.jpg',
+        Img:'./img/p2.jpg',
     },
 
     {
@@ -21,7 +21,7 @@ const Homeproduct =
         Title:"Adidas GALAXY 6",
         Cat:'Sports Shoes',
         Price:'123',
-        Img:'./Img/p3.png',
+        Img:'./img/p3.png',
     },
 
     {
@@ -29,7 +29,7 @@ const Homeproduct =
         Title:"REEBOK Ultra Fit Lace-Up ",
         Cat:'Sports Shoes',
         Price:'333',
-        Img:'./Img/p4.png',
+        Img:'./img/p4.png',
     },
 
     {
@@ -37,7 +37,7 @@ const Homeproduct =
         Title:"New Balance White 1080 ",
         Cat:'Sports Shoes',
         Price:'193',
-        Img:'./Img/p5.jpg',
+        Img:'./img/p5.jpg',
     },
 
     {
@@ -45,7 +45,7 @@ const Homeproduct =
         Title:"N Under Armour UA Charged Bandit Trail 2",
         Cat:'Sports Shoes',
         Price:'233',
-        Img:'./Img/P6.png',
+        Img:'./img/P6.png',
     },
 
     {
@@ -53,7 +53,7 @@ const Homeproduct =
         Title:"Fila Vanda Men's",
         Cat:'Sports Shoes',
         Price:'99',
-        Img:'./Img/P7.png',
+        Img:'./img/P7.png',
     },
 
     {
@@ -61,7 +61,7 @@ const Homeproduct =
         Title:"Asics GEL-KAYANO 26",
         Cat:'Sports Shoes',
         Price:'129',
-        Img:'./Img/P8.png',
+        Img:'./img/P8.png',
     },
 ]
 
