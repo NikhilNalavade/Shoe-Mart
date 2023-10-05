@@ -72,7 +72,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
 
                 <div className='box'>
                     <div className='img_box'>
-                        <img src='./img/R (1).png' alt='Formal Shoes' height={90} width={150}></img>
+                        <img src='../../img/R (1).png' alt='Formal Shoes' height={90} width={150}></img>
                     </div>
                     <div className='detail'>
                         <p>Formal Shoes</p>
