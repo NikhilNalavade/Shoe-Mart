@@ -63,7 +63,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
                 
                 <div className='box'>
                     <div className='img_box'>
-                        <img src='./Img/R.png' alt='Sports Shoes' height={90} width={150}></img>
+                        <img src='./img/R.png' alt='Sports Shoes' height={90} width={150}></img>
                     </div>
                     <div className='detail'>
                         <p>Sports Shoes</p>
@@ -72,7 +72,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
 
                 <div className='box'>
                     <div className='img_box'>
-                        <img src='./Img/R (1).png' alt='Formal Shoes' height={90} width={150}></img>
+                        <img src='./img/R (1).png' alt='Formal Shoes' height={90} width={150}></img>
                     </div>
                     <div className='detail'>
                         <p>Formal Shoes</p>
@@ -81,7 +81,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
 
                 <div className='box'>
                     <div className='img_box'>
-                        <img src='./Img/Men-Shoes-PNG-Clipart.png' alt='Casual Shoes' height={90} width={150}></img>
+                        <img src='./img/Men-Shoes-PNG-Clipart.png' alt='Casual Shoes' height={90} width={150}></img>
                     </div>
                     <div className='detail'>
                         <p>Casual Shoes</p>
@@ -90,7 +90,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
 
                 <div className='box'>
                     <div className='img_box'>
-                        <img src='/Img/106832392-1611931738880-CW5883-100_237589929_D_R_1X1_original.png' alt='Slip On' height={100} width={150}></img>
+                        <img src='/img/106832392-1611931738880-CW5883-100_237589929_D_R_1X1_original.png' alt='Slip On' height={100} width={150}></img>
                     </div>
                     <div className='detail'>
                         <p>Slip On</p>

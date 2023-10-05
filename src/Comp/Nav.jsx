@@ -25,7 +25,7 @@ const Navbar = ({searchbtn}) => {
         <div className='header'>
             <div className='catainer'>
                 <div className='logo'>
-                    <img alt='logo' src='./Img/1432508-middle.svg' height={80} width={80}/>
+                    <img alt='logo' src='./img/1432508-middle.svg' height={80} width={80}/>
                 </div>
                 
                 <div className='search_box'>
