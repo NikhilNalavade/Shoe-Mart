@@ -9,7 +9,7 @@ import { AiOutlineShoppingCart, AiOutlineClose } from 'react-icons/ai';
 import { BsEye } from 'react-icons/bs';
 import { AiOutlineHeart } from 'react-icons/ai';
 import Homeproduct from './homeproduct';
-import rename from '../../public/Img/rename.png'
+import rename from '../../public/img/rename.png'
 import '../home.css'
 
 const Home = ({detail, view, close, setClose, addtocart}) => {
